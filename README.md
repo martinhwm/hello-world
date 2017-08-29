@@ -5,6 +5,6 @@ Hallo zusammen!
 
 Hier ist Martin, der GitHub testen will. Mal schaun, wie es läuft.
 In GitHub hat es funktioniert. 
-Derzeitiger Stand: Deplyoment nach Azure funktiert. Ber dort kann ich mit dem
+Derzeitiger Stand: Deplyoment nach Azure funktiert. Aber dort kann ich mit dem
 kostenfreien Plan keinen Bereitsstellungsslot öffnen, weshalb ich das Ergebnis
-nicht teste kann.
+nicht testen kann.
