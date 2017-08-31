@@ -8,3 +8,5 @@ In GitHub hat es funktioniert.
 Derzeitiger Stand: Deplyoment nach Azure funktiert. Aber dort kann ich mit dem
 kostenfreien Plan keinen Bereitsstellungsslot öffnen, weshalb ich das Ergebnis
 nicht testen kann.
+
+Also: jetzt ändere ich gleich im Master.
