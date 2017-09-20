@@ -10,3 +10,5 @@ kostenfreien Plan keinen Bereitsstellungsslot öffnen, weshalb ich das Ergebnis
 nicht testen kann.
 
 Also: jetzt ändere ich gleich im Master.
+Änderung am 20.9.2017:  
+Readme-Text ergänzt wg. neuem Release
